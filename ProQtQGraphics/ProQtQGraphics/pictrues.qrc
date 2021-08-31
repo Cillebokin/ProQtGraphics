@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/pictrues">
+        <file>pictrues/AntiClockwise.png</file>
+        <file>pictrues/Clockwise.png</file>
+    </qresource>
+</RCC>
